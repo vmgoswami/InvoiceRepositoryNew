@@ -1,0 +1,13 @@
+C:\Users\vishw\source\repos\InvoiceRepository\InvoiceRepository\bin\Debug\netcoreapp3.1\InvoiceRepository.exe
+C:\Users\vishw\source\repos\InvoiceRepository\InvoiceRepository\bin\Debug\netcoreapp3.1\InvoiceRepository.deps.json
+C:\Users\vishw\source\repos\InvoiceRepository\InvoiceRepository\bin\Debug\netcoreapp3.1\InvoiceRepository.runtimeconfig.json
+C:\Users\vishw\source\repos\InvoiceRepository\InvoiceRepository\bin\Debug\netcoreapp3.1\InvoiceRepository.runtimeconfig.dev.json
+C:\Users\vishw\source\repos\InvoiceRepository\InvoiceRepository\bin\Debug\netcoreapp3.1\InvoiceRepository.dll
+C:\Users\vishw\source\repos\InvoiceRepository\InvoiceRepository\bin\Debug\netcoreapp3.1\InvoiceRepository.pdb
+C:\Users\vishw\source\repos\InvoiceRepository\InvoiceRepository\obj\Debug\netcoreapp3.1\InvoiceRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vishw\source\repos\InvoiceRepository\InvoiceRepository\obj\Debug\netcoreapp3.1\InvoiceRepository.AssemblyInfoInputs.cache
+C:\Users\vishw\source\repos\InvoiceRepository\InvoiceRepository\obj\Debug\netcoreapp3.1\InvoiceRepository.AssemblyInfo.cs
+C:\Users\vishw\source\repos\InvoiceRepository\InvoiceRepository\obj\Debug\netcoreapp3.1\InvoiceRepository.csproj.CoreCompileInputs.cache
+C:\Users\vishw\source\repos\InvoiceRepository\InvoiceRepository\obj\Debug\netcoreapp3.1\InvoiceRepository.dll
+C:\Users\vishw\source\repos\InvoiceRepository\InvoiceRepository\obj\Debug\netcoreapp3.1\InvoiceRepository.pdb
+C:\Users\vishw\source\repos\InvoiceRepository\InvoiceRepository\obj\Debug\netcoreapp3.1\InvoiceRepository.genruntimeconfig.cache
